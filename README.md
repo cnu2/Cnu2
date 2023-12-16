@@ -11,6 +11,7 @@ I hope to develop awesome things.💡
 
 ## 💪SKILLS
 **Platfroms and Languages**
+<br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <!--Python-->
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <!--C++-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <!--MySQL-->
