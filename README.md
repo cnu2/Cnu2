@@ -8,3 +8,12 @@ Sometimes I develop AI program using pytorch and ETL Pipeline using Airflow.
 I enjoy Basketball, Soccer. 🏀⚽️
 <br/>
 I hope to develop awesome things.💡
+
+## 💪SKILLS
+**Platfroms and Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <!--Python-->
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <!--C++-->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <!--MySQL-->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
