@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Hi!%20I,m%20Cnu2)
-
-<div align=center><h1>📚 STACKS</h1></div>
-
-<div align=center> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-  <br>
-</div>
+<a href="https://velog.io/@leecw4u"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/leecw94u@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<br/>
+👋 Hi threre!! I'm **Software Enginner** using Python and Django. 🚀
+<br/>
+Sometimes I develop AI program using pytorch and ETL Pipeline using Airflow.
+<br/><br/>
+I enjoy Basketball, Soccer. 🏀⚽️
+<br/>
+I hope to develop awesome things.💡
