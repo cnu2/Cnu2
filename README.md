@@ -18,3 +18,5 @@ I hope to develop awesome things.💡
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leecw4u)](https://solved.ac/leecw4u/)
