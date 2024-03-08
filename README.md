@@ -19,4 +19,4 @@ I hope to develop awesome things.💡
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leecw4u)](https://solved.ac/leecw4u/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leecw94u)](https://solved.ac/leecw94u/)
